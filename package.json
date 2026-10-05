@@ -1,0 +1,11 @@
+{
+  "name": "ig-reels-stats",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "See how many Instagram Reels you watch per day, from your Instagram data export. Runs fully in the browser.",
+  "scripts": {
+    "test": "node --test",
+    "start": "npx --yes serve ."
+  }
+}
